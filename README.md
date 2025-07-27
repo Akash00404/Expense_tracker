@@ -9,10 +9,6 @@ A simple and responsive Expense Tracker web application that enables users to ma
 - Responsive, modern UI with easy navigation
 - All user data is stored securely in browser localStorage
 
-## Demo
-
-> [Expense_tracker](expense-tracker-1io9ltind-akash00404s-projects.vercel.app)
-
 ## Getting Started
 
 ### Prerequisites
