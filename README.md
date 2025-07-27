@@ -11,7 +11,7 @@ A simple and responsive Expense Tracker web application that enables users to ma
 
 ## Demo
 
-> [Expense_tracker](expense-tracker-9tc8bw1mj-akash00404s-projects.vercel.app)
+> [Expense_tracker](expense-tracker-1io9ltind-akash00404s-projects.vercel.app)
 
 ## Getting Started
 
